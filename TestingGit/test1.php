@@ -14,5 +14,8 @@ edit in github
 
 otor edit
 
+<<<<<<< HEAD
 local edit
+=======
+>>>>>>> refs/remotes/origin/master
 remote edit
